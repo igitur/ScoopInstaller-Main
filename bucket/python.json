@@ -73,6 +73,7 @@
         ]
     },
     "bin": [
+        "python.exe",
         [
             "python.exe",
             "python3"
